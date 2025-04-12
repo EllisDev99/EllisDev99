@@ -21,12 +21,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=EllisDev99&theme=holi&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EllisDev99&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=EllisDev99&limit=5&theme=holi&combine_all_yearly_contributions=true)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=EllisDev99&theme=holi&no-frame=true&no-bg=false&margin-w=4)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
